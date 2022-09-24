@@ -6,9 +6,7 @@ import BlogDetails from './BlogDetails';
 import NotFound from './NotFound';
 
 function App() {
-  const title = "Welcome to the Blog Site";
-  const likes = 50;
-
+  
   return (
     <Router>
       <div className="App">
